@@ -6,4 +6,6 @@ int main() {
     cin>>a>>b>>c;
     cout<<a+b+c;
     ihvyhvvhjh vjvj
+    hvylfvuvuvjv
+    555555555555
  }
