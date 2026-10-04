@@ -2,9 +2,9 @@
 using namespace std;
 int main() {
 
-    int a,b,c;
-    cin>>a>>b>>c;
-    cout<<a+b+c;
+    int a,b,f;
+    cin>>a>>b>>f;
+    cout<<a+b+f;
     ihvyhvvhjh vjvj
     hvylfvuvuvjv
     555555555555
